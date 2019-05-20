@@ -19,11 +19,11 @@ Dr. Thomas Guillemaud
 
 In order to offer an alternative to the current system of publication Thomas, Denis and their co-founder Benoit have initiated the [Peer Community In (PCI) project](https://peercommunityin.org). 
 PCI is a non-profit scientific organization that aims to create specific communities of researchers reviewing and recommending, for free, unpublished preprints in their field (i.e. unpublished articles deposited on open online archives like arXiv.org and bioRxiv.org). 
-Each PCI is a group of several hundred recommenders playing the role of editors who recommend such preprints based on peer-reviews to make them complete, reliable and citable articles, without the need for publication in ‘traditional’ journals (although the authors can submit their recommended preprints afterwards). Evaluations and recommendations by a PCI are free of charge. When a recommender decides to recommend a preprint, he/she writes recommendation text that is published along with all the editorial correspondence (reviews, recommender's decisions, authors’ replies) by PCI Evol Biol. The preprint itself is not published by PCI: it remains in the preprint server where it was posted by the authors. The first Peer Community In was launched in 2017: Peer Community in Evolutionary Biology (PCI Evol Biol). More than 380 recommenders have already joined PCI Evol Biol. 
-PCI Paleontology and PCI Ecology were launched in January 2018 and the latter already has 280 recommenders.
+Each PCI is a group of several hundred recommenders playing the role of editors who recommend such preprints based on peer-reviews to make them complete, reliable and citable articles, without the need for publication in ‘traditional’ journals (although the authors can submit their recommended preprints afterwards). Evaluations and recommendations by a PCI are free of charge. When a recommender decides to recommend a preprint, he/she writes a recommendation text that is published along with all the editorial correspondence (reviews, recommender's decisions, authors’ replies). The preprint itself is not published by PCI: it remains in the preprint server where it was posted by the authors. 
+The first Peer Community In was launched in 2017: [Peer Community in Evolutionary Biology](https://evolbiol.peercommunityin.org/) (PCI Evol Biol) and more than 380 recommenders have already joined. 
+[PCI Paleontology](https://paleo.peercommunityin.org/) and [PCI Ecology](https://ecology.peercommunityin.org/) were launched in January 2018 and the latter already has 280 recommenders.
 
-Peer Community In presentation 
-
+- Peer Community In presentation 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3042751.svg)](https://doi.org/10.5281/zenodo.3042751)
 
 
